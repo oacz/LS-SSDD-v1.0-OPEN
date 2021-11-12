@@ -1,0 +1,600 @@
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_14.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.8575", "yMin": "0.19875", "xMax": "0.87125", "yMax": "0.235"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_26.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.87625", "yMin": "0.17625", "xMax": "0.8875", "yMax": "0.18875"}, {"displayName": "Ship", "xMin": "0.24875", "yMin": "0.1575", "xMax": "0.2575", "yMax": "0.165"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.135", "yMin": "0.075", "xMax": "0.1525", "yMax": "0.1275"}, {"displayName": "Ship", "xMin": "0.8675", "yMin": "0.915", "xMax": "0.885", "yMax": "0.93875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_10_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_11_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_13.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.46625", "yMin": "0.72125", "xMax": "0.47625", "yMax": "0.735"}, {"displayName": "Ship", "xMin": "0.455", "yMin": "0.83", "xMax": "0.4625", "yMax": "0.84625"}, {"displayName": "Ship", "xMin": "0.81", "yMin": "0.70625", "xMax": "0.81875", "yMax": "0.725"}, {"displayName": "Ship", "xMin": "0.86", "yMin": "0.88625", "xMax": "0.87375", "yMax": "0.90125"}, {"displayName": "Ship", "xMin": "0.395", "yMin": "0.9925", "xMax": "0.41375", "yMax": "1.0"}, {"displayName": "Ship", "xMin": "0.465", "yMin": "0.98875", "xMax": "0.47875", "yMax": "1.0"}, {"displayName": "Ship", "xMin": "0.54875", "yMin": "0.8825", "xMax": "0.555", "yMax": "0.88875"}, {"displayName": "Ship", "xMin": "0.4475", "yMin": "0.82", "xMax": "0.45125", "yMax": "0.82375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_14.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.77875", "yMin": "0.25875", "xMax": "0.79125", "yMax": "0.28375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_15.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.17125", "yMin": "0.135", "xMax": "0.19375", "yMax": "0.16375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_12_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_12.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.4625", "yMin": "0.95375", "xMax": "0.4825", "yMax": "0.9725"}, {"displayName": "Ship", "xMin": "0.9375", "yMin": "0.92125", "xMax": "0.95125", "yMax": "0.9375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_13.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.30125", "yMin": "0.41875", "xMax": "0.31625", "yMax": "0.4325"}, {"displayName": "Ship", "xMin": "0.4375", "yMin": "0.22875", "xMax": "0.4525", "yMax": "0.25875"}, {"displayName": "Ship", "xMin": "0.45", "yMin": "0.19125", "xMax": "0.465", "yMax": "0.21"}, {"displayName": "Ship", "xMin": "0.505", "yMin": "0.1825", "xMax": "0.52", "yMax": "0.1975"}, {"displayName": "Ship", "xMin": "0.87", "yMin": "0.02125", "xMax": "0.88375", "yMax": "0.0325"}, {"displayName": "Ship", "xMin": "0.03375", "yMin": "0.23875", "xMax": "0.04875", "yMax": "0.26"}, {"displayName": "Ship", "xMin": "0.39625", "yMin": "0.33875", "xMax": "0.4225", "yMax": "0.3625"}, {"displayName": "Ship", "xMin": "0.34125", "yMin": "0.0725", "xMax": "0.35125", "yMax": "0.08125"}, {"displayName": "Ship", "xMin": "0.40875", "yMin": "0.0525", "xMax": "0.4175", "yMax": "0.06375"}, {"displayName": "Ship", "xMin": "0.52125", "yMin": "0.15", "xMax": "0.53625", "yMax": "0.16375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_14.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.8", "yMin": "0.425", "xMax": "0.815", "yMax": "0.4425"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_15.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.79625", "yMin": "0.74", "xMax": "0.8125", "yMax": "0.755"}, {"displayName": "Ship", "xMin": "0.8875", "yMin": "0.6925", "xMax": "0.90125", "yMax": "0.70875"}, {"displayName": "Ship", "xMin": "0.5675", "yMin": "0.83625", "xMax": "0.58125", "yMax": "0.8475"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_16.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.14", "yMin": "0.475", "xMax": "0.1575", "yMax": "0.49625"}, {"displayName": "Ship", "xMin": "0.71125", "yMin": "0.75375", "xMax": "0.72375", "yMax": "0.77"}, {"displayName": "Ship", "xMin": "0.17625", "yMin": "0.38", "xMax": "0.19125", "yMax": "0.38875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_17.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.3125", "yMin": "0.66625", "xMax": "0.32125", "yMax": "0.6775"}, {"displayName": "Ship", "xMin": "0.3425", "yMin": "0.65", "xMax": "0.3525", "yMax": "0.66125"}, {"displayName": "Ship", "xMin": "0.35625", "yMin": "0.6925", "xMax": "0.37", "yMax": "0.71375"}, {"displayName": "Ship", "xMin": "0.3325", "yMin": "0.71875", "xMax": "0.3425", "yMax": "0.73875"}, {"displayName": "Ship", "xMin": "0.4375", "yMin": "0.8775", "xMax": "0.45125", "yMax": "0.90125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_13_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_11.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.78125", "yMin": "0.825", "xMax": "0.79125", "yMax": "0.8375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_12.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.14", "yMin": "0.225", "xMax": "0.16", "yMax": "0.24"}, {"displayName": "Ship", "xMin": "0.15125", "yMin": "0.7075", "xMax": "0.16625", "yMax": "0.7225"}, {"displayName": "Ship", "xMin": "0.4325", "yMin": "0.51", "xMax": "0.45", "yMax": "0.5225"}, {"displayName": "Ship", "xMin": "0.7", "yMin": "0.26625", "xMax": "0.71", "yMax": "0.2775"}, {"displayName": "Ship", "xMin": "0.605", "yMin": "0.32", "xMax": "0.62", "yMax": "0.33375"}, {"displayName": "Ship", "xMin": "0.69", "yMin": "0.50625", "xMax": "0.7025", "yMax": "0.51875"}, {"displayName": "Ship", "xMin": "0.61875", "yMin": "0.945", "xMax": "0.62875", "yMax": "0.9575"}, {"displayName": "Ship", "xMin": "0.59375", "yMin": "0.8825", "xMax": "0.605", "yMax": "0.8925"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_13.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.215", "yMin": "0.405", "xMax": "0.23125", "yMax": "0.4175"}, {"displayName": "Ship", "xMin": "0.2675", "yMin": "0.3575", "xMax": "0.28", "yMax": "0.37125"}, {"displayName": "Ship", "xMin": "0.29", "yMin": "0.3325", "xMax": "0.30125", "yMax": "0.3475"}, {"displayName": "Ship", "xMin": "0.28875", "yMin": "0.39125", "xMax": "0.3", "yMax": "0.405"}, {"displayName": "Ship", "xMin": "0.29625", "yMin": "0.40625", "xMax": "0.30875", "yMax": "0.41875"}, {"displayName": "Ship", "xMin": "0.31375", "yMin": "0.5225", "xMax": "0.32875", "yMax": "0.535"}, {"displayName": "Ship", "xMin": "0.305", "yMin": "0.58125", "xMax": "0.315", "yMax": "0.5975"}, {"displayName": "Ship", "xMin": "0.33", "yMin": "0.6225", "xMax": "0.3375", "yMax": "0.63375"}, {"displayName": "Ship", "xMin": "0.06875", "yMin": "0.72375", "xMax": "0.0775", "yMax": "0.735"}, {"displayName": "Ship", "xMin": "0.2075", "yMin": "0.77625", "xMax": "0.22375", "yMax": "0.78875"}, {"displayName": "Ship", "xMin": "0.37125", "yMin": "0.91625", "xMax": "0.3875", "yMax": "0.93375"}, {"displayName": "Ship", "xMin": "0.385", "yMin": "0.77375", "xMax": "0.39875", "yMax": "0.78625"}, {"displayName": "Ship", "xMin": "0.56875", "yMin": "0.76875", "xMax": "0.58", "yMax": "0.78"}, {"displayName": "Ship", "xMin": "0.43875", "yMin": "0.70375", "xMax": "0.45125", "yMax": "0.71625"}, {"displayName": "Ship", "xMin": "0.4575", "yMin": "0.72625", "xMax": "0.47", "yMax": "0.74"}, {"displayName": "Ship", "xMin": "0.725", "yMin": "0.4075", "xMax": "0.7375", "yMax": "0.4225"}, {"displayName": "Ship", "xMin": "0.43375", "yMin": "0.4925", "xMax": "0.4475", "yMax": "0.5075"}, {"displayName": "Ship", "xMin": "0.59625", "yMin": "0.09125", "xMax": "0.6075", "yMax": "0.10375"}, {"displayName": "Ship", "xMin": "0.28875", "yMin": "0.935", "xMax": "0.3", "yMax": "0.945"}, {"displayName": "Ship", "xMin": "0.44625", "yMin": "0.24", "xMax": "0.46125", "yMax": "0.2625"}, {"displayName": "Ship", "xMin": "0.53375", "yMin": "0.21", "xMax": "0.5475", "yMax": "0.225"}, {"displayName": "Ship", "xMin": "0.6875", "yMin": "0.52", "xMax": "0.7025", "yMax": "0.53625"}, {"displayName": "Ship", "xMin": "0.45", "yMin": "0.78", "xMax": "0.46125", "yMax": "0.79125"}, {"displayName": "Ship", "xMin": "0.06125", "yMin": "0.76", "xMax": "0.0725", "yMax": "0.77875"}, {"displayName": "Ship", "xMin": "0.7125", "yMin": "0.72", "xMax": "0.72375", "yMax": "0.73125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_15.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.73625", "yMin": "0.83875", "xMax": "0.75875", "yMax": "0.88125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_17.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.28375", "yMin": "0.2925", "xMax": "0.29875", "yMax": "0.3075"}, {"displayName": "Ship", "xMin": "0.47625", "yMin": "0.13625", "xMax": "0.48875", "yMax": "0.1525"}, {"displayName": "Ship", "xMin": "0.425", "yMin": "0.0675", "xMax": "0.43875", "yMax": "0.08875"}, {"displayName": "Ship", "xMin": "0.6025", "yMin": "0.08625", "xMax": "0.61875", "yMax": "0.1"}, {"displayName": "Ship", "xMin": "0.815", "yMin": "0.1025", "xMax": "0.8325", "yMax": "0.115"}, {"displayName": "Ship", "xMin": "0.85375", "yMin": "0.1775", "xMax": "0.86375", "yMax": "0.1925"}, {"displayName": "Ship", "xMin": "0.1025", "yMin": "0.9775", "xMax": "0.1175", "yMax": "0.99"}, {"displayName": "Ship", "xMin": "0.7525", "yMin": "0.905", "xMax": "0.76875", "yMax": "0.92"}, {"displayName": "Ship", "xMin": "0.71", "yMin": "0.225", "xMax": "0.7275", "yMax": "0.24"}, {"displayName": "Ship", "xMin": "0.445", "yMin": "0.2225", "xMax": "0.46125", "yMax": "0.24"}, {"displayName": "Ship", "xMin": "0.6025", "yMin": "0.35375", "xMax": "0.61375", "yMax": "0.36375"}, {"displayName": "Ship", "xMin": "0.4025", "yMin": "0.59", "xMax": "0.41", "yMax": "0.59625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_18.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.4475", "yMin": "0.68375", "xMax": "0.465", "yMax": "0.69625"}, {"displayName": "Ship", "xMin": "0.93875", "yMin": "0.45625", "xMax": "0.94875", "yMax": "0.4725"}, {"displayName": "Ship", "xMin": "0.92", "yMin": "0.55625", "xMax": "0.9275", "yMax": "0.56875"}, {"displayName": "Ship", "xMin": "0.50375", "yMin": "0.46", "xMax": "0.52", "yMax": "0.47625"}, {"displayName": "Ship", "xMin": "0.88875", "yMin": "0.4", "xMax": "0.9", "yMax": "0.4125"}, {"displayName": "Ship", "xMin": "0.6575", "yMin": "0.47", "xMax": "0.66875", "yMax": "0.4825"}, {"displayName": "Ship", "xMin": "0.8225", "yMin": "0.46", "xMax": "0.83125", "yMax": "0.47625"}, {"displayName": "Ship", "xMin": "0.87875", "yMin": "0.495", "xMax": "0.89125", "yMax": "0.51375"}, {"displayName": "Ship", "xMin": "0.35875", "yMin": "0.7", "xMax": "0.3675", "yMax": "0.715"}, {"displayName": "Ship", "xMin": "0.49625", "yMin": "0.7375", "xMax": "0.51125", "yMax": "0.75"}, {"displayName": "Ship", "xMin": "0.8225", "yMin": "0.55625", "xMax": "0.82875", "yMax": "0.56375"}, {"displayName": "Ship", "xMin": "0.865", "yMin": "0.56", "xMax": "0.87125", "yMax": "0.56875"}, {"displayName": "Ship", "xMin": "0.88", "yMin": "0.3475", "xMax": "0.885", "yMax": "0.355"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_19.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.2025", "yMin": "0.405", "xMax": "0.21625", "yMax": "0.41375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_24.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.98375", "yMin": "0.235", "xMax": "0.99375", "yMax": "0.245"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.20875", "yMin": "0.70875", "xMax": "0.23375", "yMax": "0.74375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_14_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_13.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.3775", "yMin": "0.11875", "xMax": "0.39125", "yMax": "0.13875"}, {"displayName": "Ship", "xMin": "0.58875", "yMin": "0.29", "xMax": "0.60375", "yMax": "0.3"}, {"displayName": "Ship", "xMin": "0.6575", "yMin": "0.39875", "xMax": "0.67", "yMax": "0.4175"}, {"displayName": "Ship", "xMin": "0.7675", "yMin": "0.08875", "xMax": "0.77625", "yMax": "0.10375"}, {"displayName": "Ship", "xMin": "0.98875", "yMin": "0.33", "xMax": "1.0", "yMax": "0.34125"}, {"displayName": "Ship", "xMin": "0.985", "yMin": "0.3775", "xMax": "0.995", "yMax": "0.39"}, {"displayName": "Ship", "xMin": "0.87", "yMin": "0.575", "xMax": "0.88375", "yMax": "0.59125"}, {"displayName": "Ship", "xMin": "0.5425", "yMin": "0.16", "xMax": "0.55625", "yMax": "0.17875"}, {"displayName": "Ship", "xMin": "0.77125", "yMin": "0.49", "xMax": "0.785", "yMax": "0.5"}, {"displayName": "Ship", "xMin": "0.8825", "yMin": "0.5175", "xMax": "0.8925", "yMax": "0.525"}, {"displayName": "Ship", "xMin": "0.7975", "yMin": "0.35", "xMax": "0.80625", "yMax": "0.35625"}, {"displayName": "Ship", "xMin": "0.75375", "yMin": "0.4525", "xMax": "0.7625", "yMax": "0.465"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_14.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.5675", "yMin": "0.70875", "xMax": "0.58125", "yMax": "0.72375"}, {"displayName": "Ship", "xMin": "0.555", "yMin": "0.32875", "xMax": "0.5725", "yMax": "0.345"}, {"displayName": "Ship", "xMin": "0.29875", "yMin": "0.3775", "xMax": "0.31875", "yMax": "0.395"}, {"displayName": "Ship", "xMin": "0.03875", "yMin": "0.57", "xMax": "0.05125", "yMax": "0.5875"}, {"displayName": "Ship", "xMin": "0.455", "yMin": "0.71125", "xMax": "0.4675", "yMax": "0.7275"}, {"displayName": "Ship", "xMin": "0.515", "yMin": "0.32875", "xMax": "0.5225", "yMax": "0.33625"}, {"displayName": "Ship", "xMin": "0.22125", "yMin": "0.6275", "xMax": "0.23", "yMax": "0.635"}, {"displayName": "Ship", "xMin": "0.53125", "yMin": "0.36375", "xMax": "0.5375", "yMax": "0.37125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_15.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.225", "yMin": "0.80625", "xMax": "0.2425", "yMax": "0.83625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_16.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.4425", "yMin": "0.43875", "xMax": "0.46", "yMax": "0.455"}, {"displayName": "Ship", "xMin": "0.5525", "yMin": "0.3425", "xMax": "0.5675", "yMax": "0.35875"}, {"displayName": "Ship", "xMin": "0.78625", "yMin": "0.4525", "xMax": "0.80875", "yMax": "0.48"}, {"displayName": "Ship", "xMin": "0.90125", "yMin": "0.30125", "xMax": "0.91625", "yMax": "0.3175"}, {"displayName": "Ship", "xMin": "0.73875", "yMin": "0.33", "xMax": "0.75125", "yMax": "0.34125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_17.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.1525", "yMin": "0.015", "xMax": "0.17125", "yMax": "0.045"}, {"displayName": "Ship", "xMin": "0.19125", "yMin": "0.06625", "xMax": "0.21", "yMax": "0.07875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_20.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.235", "yMin": "0.09375", "xMax": "0.2575", "yMax": "0.11125"}, {"displayName": "Ship", "xMin": "0.2125", "yMin": "0.22125", "xMax": "0.225", "yMax": "0.2525"}, {"displayName": "Ship", "xMin": "0.50875", "yMin": "0.3", "xMax": "0.52", "yMax": "0.31625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_22.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.30375", "yMin": "0.64875", "xMax": "0.30875", "yMax": "0.655"}, {"displayName": "Ship", "xMin": "0.3225", "yMin": "0.6725", "xMax": "0.32875", "yMax": "0.68375"}, {"displayName": "Ship", "xMin": "0.33", "yMin": "0.65625", "xMax": "0.34", "yMax": "0.67125"}, {"displayName": "Ship", "xMin": "0.175", "yMin": "0.76", "xMax": "0.18375", "yMax": "0.76625"}, {"displayName": "Ship", "xMin": "0.1525", "yMin": "0.77875", "xMax": "0.15875", "yMax": "0.785"}, {"displayName": "Ship", "xMin": "0.10875", "yMin": "0.815", "xMax": "0.11625", "yMax": "0.8225"}, {"displayName": "Ship", "xMin": "0.0975", "yMin": "0.825", "xMax": "0.1025", "yMax": "0.83125"}, {"displayName": "Ship", "xMin": "0.39125", "yMin": "0.645", "xMax": "0.40125", "yMax": "0.6525"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.595", "yMin": "0.755", "xMax": "0.60625", "yMax": "0.7925"}, {"displayName": "Ship", "xMin": "0.67375", "yMin": "0.1625", "xMax": "0.69", "yMax": "0.18875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.21625", "yMin": "0.03", "xMax": "0.23875", "yMax": "0.0625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_15_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_14.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.1075", "yMin": "0.195", "xMax": "0.12875", "yMax": "0.215"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_16_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_6.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.05", "yMin": "0.085", "xMax": "0.06", "yMax": "0.1"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_17_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_11.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.23625", "yMin": "0.94875", "xMax": "0.25625", "yMax": "0.96875"}, {"displayName": "Ship", "xMin": "0.87125", "yMin": "0.935", "xMax": "0.8825", "yMax": "0.95"}, {"displayName": "Ship", "xMin": "0.90875", "yMin": "0.96625", "xMax": "0.92125", "yMax": "0.9775"}, {"displayName": "Ship", "xMin": "0.925", "yMin": "0.96", "xMax": "0.9375", "yMax": "0.97625"}, {"displayName": "Ship", "xMin": "0.93875", "yMin": "0.90625", "xMax": "0.945", "yMax": "0.9125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_16.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.1775", "yMin": "0.80875", "xMax": "0.1925", "yMax": "0.8225"}, {"displayName": "Ship", "xMin": "0.02375", "yMin": "0.76125", "xMax": "0.0325", "yMax": "0.77375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_18_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_10.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.1375", "yMin": "0.65375", "xMax": "0.14875", "yMax": "0.67125"}, {"displayName": "Ship", "xMin": "0.52625", "yMin": "0.77625", "xMax": "0.545", "yMax": "0.81125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.45875", "yMin": "0.7475", "xMax": "0.47375", "yMax": "0.77625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.07125", "yMin": "0.9", "xMax": "0.0925", "yMax": "0.93125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_19_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_1.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.6025", "yMin": "0.83875", "xMax": "0.61", "yMax": "0.8525"}, {"displayName": "Ship", "xMin": "0.62125", "yMin": "0.86625", "xMax": "0.63375", "yMax": "0.87875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_15.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.0225", "yMin": "0.34875", "xMax": "0.04375", "yMax": "0.40375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_19.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.05", "yMin": "0.5425", "xMax": "0.0625", "yMax": "0.56"}, {"displayName": "Ship", "xMin": "0.35375", "yMin": "0.52", "xMax": "0.36875", "yMax": "0.53375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.335", "yMin": "0.22875", "xMax": "0.3525", "yMax": "0.265"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_1_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_12.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.53375", "yMin": "0.76375", "xMax": "0.5475", "yMax": "0.7775"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_20_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_20.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.0425", "yMin": "0.96375", "xMax": "0.0625", "yMax": "0.98375"}, {"displayName": "Ship", "xMin": "0.13375", "yMin": "0.88", "xMax": "0.1575", "yMax": "0.9175"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_24.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.9125", "yMin": "0.745", "xMax": "0.92125", "yMax": "0.75625"}, {"displayName": "Ship", "xMin": "0.9275", "yMin": "0.74875", "xMax": "0.93375", "yMax": "0.75875"}, {"displayName": "Ship", "xMin": "0.905", "yMin": "0.71875", "xMax": "0.9125", "yMax": "0.73875"}, {"displayName": "Ship", "xMin": "0.9075", "yMin": "0.7125", "xMax": "0.9175", "yMax": "0.7225"}, {"displayName": "Ship", "xMin": "0.69625", "yMin": "0.9675", "xMax": "0.70625", "yMax": "0.97875"}, {"displayName": "Ship", "xMin": "0.76", "yMin": "0.9525", "xMax": "0.7725", "yMax": "0.96375"}, {"displayName": "Ship", "xMin": "0.75875", "yMin": "0.93125", "xMax": "0.785", "yMax": "0.95"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.6225", "yMin": "0.11875", "xMax": "0.6375", "yMax": "0.13375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_2_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_19.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.57375", "yMin": "0.44", "xMax": "0.58875", "yMax": "0.45875"}, {"displayName": "Ship", "xMin": "0.60375", "yMin": "0.3975", "xMax": "0.615", "yMax": "0.4225"}, {"displayName": "Ship", "xMin": "0.59375", "yMin": "0.3475", "xMax": "0.60625", "yMax": "0.3625"}, {"displayName": "Ship", "xMin": "0.62", "yMin": "0.29625", "xMax": "0.63375", "yMax": "0.31625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_20.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.02875", "yMin": "0.0575", "xMax": "0.04125", "yMax": "0.07"}, {"displayName": "Ship", "xMin": "0.1825", "yMin": "0.2925", "xMax": "0.19625", "yMax": "0.30875"}, {"displayName": "Ship", "xMin": "0.2175", "yMin": "0.3925", "xMax": "0.23625", "yMax": "0.4125"}, {"displayName": "Ship", "xMin": "0.7125", "yMin": "0.73375", "xMax": "0.7275", "yMax": "0.7525"}, {"displayName": "Ship", "xMin": "0.7925", "yMin": "0.82625", "xMax": "0.8075", "yMax": "0.84"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_24.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.68375", "yMin": "0.02125", "xMax": "0.6925", "yMax": "0.03125"}, {"displayName": "Ship", "xMin": "0.6625", "yMin": "0.01625", "xMax": "0.66625", "yMax": "0.02375"}, {"displayName": "Ship", "xMin": "0.655", "yMin": "0.00375", "xMax": "0.66625", "yMax": "0.015"}, {"displayName": "Ship", "xMin": "0.6825", "yMin": "0.00125", "xMax": "0.6975", "yMax": "0.00875"}, {"displayName": "Ship", "xMin": "0.69875", "yMin": "0.0025", "xMax": "0.705", "yMax": "0.0125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_4.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.2425", "yMin": "0.7925", "xMax": "0.2675", "yMax": "0.8125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_3_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_19.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.9525", "yMin": "0.355", "xMax": "0.9675", "yMax": "0.3725"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_21.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.32125", "yMin": "0.785", "xMax": "0.33375", "yMax": "0.8025"}, {"displayName": "Ship", "xMin": "0.34125", "yMin": "0.815", "xMax": "0.3525", "yMax": "0.82625"}, {"displayName": "Ship", "xMin": "0.36125", "yMin": "0.81625", "xMax": "0.37125", "yMax": "0.82875"}, {"displayName": "Ship", "xMin": "0.38625", "yMin": "0.84625", "xMax": "0.39625", "yMax": "0.86"}, {"displayName": "Ship", "xMin": "0.405", "yMin": "0.87375", "xMax": "0.415", "yMax": "0.885"}, {"displayName": "Ship", "xMin": "0.42", "yMin": "0.95", "xMax": "0.43", "yMax": "0.9575"}, {"displayName": "Ship", "xMin": "0.5225", "yMin": "0.98625", "xMax": "0.53125", "yMax": "0.995"}, {"displayName": "Ship", "xMin": "0.465", "yMin": "0.9775", "xMax": "0.475", "yMax": "0.99"}, {"displayName": "Ship", "xMin": "0.4775", "yMin": "0.94625", "xMax": "0.48375", "yMax": "0.95625"}, {"displayName": "Ship", "xMin": "0.46", "yMin": "0.9525", "xMax": "0.47125", "yMax": "0.965"}, {"displayName": "Ship", "xMin": "0.46125", "yMin": "0.9625", "xMax": "0.4725", "yMax": "0.97375"}, {"displayName": "Ship", "xMin": "0.455", "yMin": "0.9275", "xMax": "0.46875", "yMax": "0.93875"}, {"displayName": "Ship", "xMin": "0.1", "yMin": "0.35", "xMax": "0.10875", "yMax": "0.36875"}, {"displayName": "Ship", "xMin": "0.115", "yMin": "0.35125", "xMax": "0.12625", "yMax": "0.36625"}, {"displayName": "Ship", "xMin": "0.10625", "yMin": "0.32375", "xMax": "0.11625", "yMax": "0.33375"}, {"displayName": "Ship", "xMin": "0.19375", "yMin": "0.7025", "xMax": "0.2075", "yMax": "0.7175"}, {"displayName": "Ship", "xMin": "0.22", "yMin": "0.73125", "xMax": "0.23125", "yMax": "0.74875"}, {"displayName": "Ship", "xMin": "0.24375", "yMin": "0.75375", "xMax": "0.255", "yMax": "0.76625"}, {"displayName": "Ship", "xMin": "0.27875", "yMin": "0.7725", "xMax": "0.28875", "yMax": "0.78625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_27.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.37625", "yMin": "0.67625", "xMax": "0.39125", "yMax": "0.695"}, {"displayName": "Ship", "xMin": "0.545", "yMin": "0.65125", "xMax": "0.55625", "yMax": "0.6675"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_28.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.5275", "yMin": "0.16625", "xMax": "0.54", "yMax": "0.20375"}, {"displayName": "Ship", "xMin": "0.815", "yMin": "0.31625", "xMax": "0.82875", "yMax": "0.3425"}, {"displayName": "Ship", "xMin": "0.83", "yMin": "0.30625", "xMax": "0.8425", "yMax": "0.325"}, {"displayName": "Ship", "xMin": "0.885", "yMin": "0.38", "xMax": "0.90375", "yMax": "0.38875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.4775", "yMin": "0.13875", "xMax": "0.49375", "yMax": "0.15625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_5.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.43375", "yMin": "0.4575", "xMax": "0.4525", "yMax": "0.48125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_4_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_16.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.6", "yMin": "0.66125", "xMax": "0.62375", "yMax": "0.69"}, {"displayName": "Ship", "xMin": "0.95125", "yMin": "0.10375", "xMax": "0.9725", "yMax": "0.12125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_17.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.88875", "yMin": "0.455", "xMax": "0.9175", "yMax": "0.475"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_18.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.84", "yMin": "0.27875", "xMax": "0.85375", "yMax": "0.29625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_21.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.5675", "yMin": "0.06375", "xMax": "0.58375", "yMax": "0.0875"}, {"displayName": "Ship", "xMin": "0.5675", "yMin": "0.6925", "xMax": "0.58625", "yMax": "0.70875"}, {"displayName": "Ship", "xMin": "0.99375", "yMin": "0.135", "xMax": "1.0", "yMax": "0.14"}, {"displayName": "Ship", "xMin": "0.98125", "yMin": "0.13125", "xMax": "0.9875", "yMax": "0.14"}, {"displayName": "Ship", "xMin": "0.985", "yMin": "0.11", "xMax": "0.99375", "yMax": "0.12"}, {"displayName": "Ship", "xMin": "0.9725", "yMin": "0.11", "xMax": "0.9825", "yMax": "0.12"}, {"displayName": "Ship", "xMin": "0.96125", "yMin": "0.10125", "xMax": "0.9725", "yMax": "0.1125"}, {"displayName": "Ship", "xMin": "0.9325", "yMin": "0.09625", "xMax": "0.94", "yMax": "0.105"}, {"displayName": "Ship", "xMin": "0.9425", "yMin": "0.1", "xMax": "0.95375", "yMax": "0.1075"}, {"displayName": "Ship", "xMin": "0.94875", "yMin": "0.09", "xMax": "0.9575", "yMax": "0.1"}, {"displayName": "Ship", "xMin": "0.935", "yMin": "0.0825", "xMax": "0.94375", "yMax": "0.0925"}, {"displayName": "Ship", "xMin": "0.9475", "yMin": "0.0725", "xMax": "0.95875", "yMax": "0.08625"}, {"displayName": "Ship", "xMin": "0.96", "yMin": "0.0725", "xMax": "0.9675", "yMax": "0.08125"}, {"displayName": "Ship", "xMin": "0.965", "yMin": "0.05625", "xMax": "0.97125", "yMax": "0.06625"}, {"displayName": "Ship", "xMin": "0.97125", "yMin": "0.09", "xMax": "0.9775", "yMax": "0.09625"}, {"displayName": "Ship", "xMin": "0.96875", "yMin": "0.07875", "xMax": "0.9775", "yMax": "0.0875"}, {"displayName": "Ship", "xMin": "0.96875", "yMin": "0.07125", "xMax": "0.97625", "yMax": "0.0775"}, {"displayName": "Ship", "xMin": "0.975", "yMin": "0.055", "xMax": "0.9825", "yMax": "0.06375"}, {"displayName": "Ship", "xMin": "0.98", "yMin": "0.065", "xMax": "0.98875", "yMax": "0.075"}, {"displayName": "Ship", "xMin": "0.98875", "yMin": "0.0775", "xMax": "0.9925", "yMax": "0.08375"}, {"displayName": "Ship", "xMin": "0.99", "yMin": "0.085", "xMax": "0.9975", "yMax": "0.09125"}, {"displayName": "Ship", "xMin": "0.9925", "yMin": "0.06", "xMax": "1.0", "yMax": "0.06625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_22.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.45125", "yMin": "0.82625", "xMax": "0.4675", "yMax": "0.84625"}, {"displayName": "Ship", "xMin": "0.6575", "yMin": "0.4775", "xMax": "0.67375", "yMax": "0.4925"}, {"displayName": "Ship", "xMin": "0.70625", "yMin": "0.4", "xMax": "0.725", "yMax": "0.41375"}, {"displayName": "Ship", "xMin": "0.1", "yMin": "0.24625", "xMax": "0.12375", "yMax": "0.27625"}, {"displayName": "Ship", "xMin": "0.00125", "yMin": "0.1325", "xMax": "0.00875", "yMax": "0.14375"}, {"displayName": "Ship", "xMin": "0.00125", "yMin": "0.09125", "xMax": "0.01125", "yMax": "0.09875"}, {"displayName": "Ship", "xMin": "0.0325", "yMin": "0.05875", "xMax": "0.04", "yMax": "0.0675"}, {"displayName": "Ship", "xMin": "0.01375", "yMin": "0.06875", "xMax": "0.02875", "yMax": "0.0775"}, {"displayName": "Ship", "xMin": "0.00875", "yMin": "0.0875", "xMax": "0.02", "yMax": "0.0925"}, {"displayName": "Ship", "xMin": "0.01", "yMin": "0.10625", "xMax": "0.0225", "yMax": "0.115"}, {"displayName": "Ship", "xMin": "0.025", "yMin": "0.0975", "xMax": "0.03625", "yMax": "0.10625"}, {"displayName": "Ship", "xMin": "0.02125", "yMin": "0.08375", "xMax": "0.03", "yMax": "0.09125"}, {"displayName": "Ship", "xMin": "0.05125", "yMin": "0.07125", "xMax": "0.06125", "yMax": "0.08"}, {"displayName": "Ship", "xMin": "0.05125", "yMin": "0.09375", "xMax": "0.06", "yMax": "0.105"}, {"displayName": "Ship", "xMin": "0.03", "yMin": "0.1125", "xMax": "0.04125", "yMax": "0.1225"}, {"displayName": "Ship", "xMin": "0.05625", "yMin": "0.12", "xMax": "0.06875", "yMax": "0.12875"}, {"displayName": "Ship", "xMin": "0.0725", "yMin": "0.0825", "xMax": "0.0825", "yMax": "0.09375"}, {"displayName": "Ship", "xMin": "0.07", "yMin": "0.1075", "xMax": "0.08375", "yMax": "0.1175"}, {"displayName": "Ship", "xMin": "0.085", "yMin": "0.09625", "xMax": "0.0975", "yMax": "0.10875"}, {"displayName": "Ship", "xMin": "0.0625", "yMin": "0.15875", "xMax": "0.07375", "yMax": "0.16625"}, {"displayName": "Ship", "xMin": "0.09875", "yMin": "0.155", "xMax": "0.1125", "yMax": "0.165"}, {"displayName": "Ship", "xMin": "0.17", "yMin": "0.16", "xMax": "0.185", "yMax": "0.17875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_23.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.53875", "yMin": "0.5025", "xMax": "0.55375", "yMax": "0.51125"}, {"displayName": "Ship", "xMin": "0.5", "yMin": "0.49375", "xMax": "0.515", "yMax": "0.50625"}, {"displayName": "Ship", "xMin": "0.22375", "yMin": "0.41375", "xMax": "0.24375", "yMax": "0.42625"}, {"displayName": "Ship", "xMin": "0.165", "yMin": "0.42625", "xMax": "0.1775", "yMax": "0.435"}, {"displayName": "Ship", "xMin": "0.18875", "yMin": "0.41125", "xMax": "0.20375", "yMax": "0.4225"}, {"displayName": "Ship", "xMin": "0.2125", "yMin": "0.3925", "xMax": "0.22125", "yMax": "0.4025"}, {"displayName": "Ship", "xMin": "0.11375", "yMin": "0.38", "xMax": "0.1275", "yMax": "0.38875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_24.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.0825", "yMin": "0.76875", "xMax": "0.1", "yMax": "0.79"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_28.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.04125", "yMin": "0.59375", "xMax": "0.0475", "yMax": "0.60375"}, {"displayName": "Ship", "xMin": "0.05625", "yMin": "0.5725", "xMax": "0.0625", "yMax": "0.58125"}, {"displayName": "Ship", "xMin": "0.16625", "yMin": "0.54375", "xMax": "0.17375", "yMax": "0.5575"}, {"displayName": "Ship", "xMin": "0.1225", "yMin": "0.545", "xMax": "0.13125", "yMax": "0.55125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.42", "yMin": "0.34875", "xMax": "0.44375", "yMax": "0.37125"}, {"displayName": "Ship", "xMin": "0.9225", "yMin": "0.68375", "xMax": "0.9375", "yMax": "0.70625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.24125", "yMin": "0.16", "xMax": "0.26125", "yMax": "0.1775"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_5_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_21.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.42625", "yMin": "0.905", "xMax": "0.45375", "yMax": "0.95"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_23.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.06875", "yMin": "0.48125", "xMax": "0.085", "yMax": "0.49875"}, {"displayName": "Ship", "xMin": "0.505", "yMin": "0.63125", "xMax": "0.52375", "yMax": "0.655"}, {"displayName": "Ship", "xMin": "0.51625", "yMin": "0.01125", "xMax": "0.53", "yMax": "0.04125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_25.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.6275", "yMin": "0.03875", "xMax": "0.65625", "yMax": "0.06375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.07625", "yMin": "0.25", "xMax": "0.09125", "yMax": "0.265"}, {"displayName": "Ship", "xMin": "0.1275", "yMin": "0.26", "xMax": "0.15125", "yMax": "0.28375"}, {"displayName": "Ship", "xMin": "0.0725", "yMin": "0.27125", "xMax": "0.085", "yMax": "0.28875"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_30.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.71", "yMin": "0.24875", "xMax": "0.73625", "yMax": "0.2775"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_6_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_12.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.45125", "yMin": "0.82125", "xMax": "0.47", "yMax": "0.845"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_24.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.16", "yMin": "0.70625", "xMax": "0.17875", "yMax": "0.7275"}, {"displayName": "Ship", "xMin": "0.3475", "yMin": "0.66125", "xMax": "0.355", "yMax": "0.67125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_28.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.06125", "yMin": "0.3725", "xMax": "0.07125", "yMax": "0.39125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_7_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_15.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.54375", "yMin": "0.74", "xMax": "0.55", "yMax": "0.7475"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_17.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_19.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_26.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.6425", "yMin": "0.92", "xMax": "0.6675", "yMax": "0.9475"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_28.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.03375", "yMin": "0.94125", "xMax": "0.05", "yMax": "0.96125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_29.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.44625", "yMin": "0.06", "xMax": "0.45875", "yMax": "0.07375"}, {"displayName": "Ship", "xMin": "0.435", "yMin": "0.0875", "xMax": "0.455", "yMax": "0.1025"}, {"displayName": "Ship", "xMin": "0.68", "yMin": "0.2625", "xMax": "0.69", "yMax": "0.28"}, {"displayName": "Ship", "xMin": "0.76875", "yMin": "0.2175", "xMax": "0.78875", "yMax": "0.235"}, {"displayName": "Ship", "xMin": "0.7575", "yMin": "0.295", "xMax": "0.77125", "yMax": "0.315"}, {"displayName": "Ship", "xMin": "0.86625", "yMin": "0.315", "xMax": "0.87625", "yMax": "0.32625"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_8_9.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_1.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_10.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_11.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_12.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_13.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_14.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_15.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_16.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_17.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.17375", "yMin": "0.03375", "xMax": "0.19125", "yMax": "0.05125"}, {"displayName": "Ship", "xMin": "0.11125", "yMin": "0.88375", "xMax": "0.1175", "yMax": "0.895"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_18.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_19.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.7125", "yMin": "0.86625", "xMax": "0.72875", "yMax": "0.90125"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_2.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_20.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_21.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_22.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_23.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_24.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_25.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_26.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_27.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_28.jpg", "boundingBoxAnnotations": [{"displayName": "Ship", "xMin": "0.94625", "yMin": "0.06875", "xMax": "0.95875", "yMax": "0.08875"}, {"displayName": "Ship", "xMin": "0.98", "yMin": "0.18", "xMax": "0.9975", "yMax": "0.19375"}]}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_29.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_3.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_30.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_4.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_5.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_6.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_7.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_8.jpg"}
+{"imageGcsUri": "gs://cloud-ai-platform-abfdcf95-6d4a-4065-a425-19eca8e4051b/08_9_9.jpg"}
